@@ -11,6 +11,9 @@ I am solving problems primarily from the Striver A2Z DSA Sheet and documenting m
 | Problem | Solution |
 |---|---|
 | Two Sum | [ Solution](https://leetcode.com/problems/two-sum/solutions/8478709/two-sum-hash-map-approach-by-chhavisharm-6zcu/) |
+| Best Time to Buy and Sell Stock | [ Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/8478723/best-time-to-buy-and-sell-stock-single-p-9qrn/) |
+
+
 
 ---
 
