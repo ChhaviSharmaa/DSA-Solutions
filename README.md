@@ -10,6 +10,7 @@ I am solving problems primarily from the Striver A2Z DSA Sheet and documenting m
 
 | Problem | Solution |
 |---|---|
+| Two Sum | [ Solution](https://leetcode.com/problems/two-sum/solutions/8478709/two-sum-hash-map-approach-by-chhavisharm-6zcu/) |
 
 ---
 
