@@ -13,6 +13,7 @@ I am solving problems primarily from the Striver A2Z DSA Sheet and documenting m
 | Two Sum | [ Solution](https://leetcode.com/problems/two-sum/solutions/8478709/two-sum-hash-map-approach-by-chhavisharm-6zcu/) |
 | Best Time to Buy and Sell Stock | [ Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/8478723/best-time-to-buy-and-sell-stock-single-p-9qrn/) |
 | Remove Duplicates from Sorted Array | [ Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/8479833/two-pointers-in-place-array-modification-t6xt/) |
+| Rotate Array | [ Solution](https://leetcode.com/problems/rotate-array/solutions/8479836/array-two-pointers-reversal-by-chhavisha-qezv/) |
 
 
 
