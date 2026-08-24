@@ -50,6 +50,7 @@ I am solving problems primarily from the Striver A2Z DSA Sheet and documenting m
 ## Sliding Window
 
 | Problem | Solution |
+|---|---|
 | Longest Subarray Of 1's After Deleting one element | [ Solution](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/solutions/8479907/longest-subarray-of-1s-after-deleting-on-pvuo/) |
 
 ---
