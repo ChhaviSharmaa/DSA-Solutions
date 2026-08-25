@@ -14,6 +14,7 @@ I am solving problems primarily from the Striver A2Z DSA Sheet and documenting m
 | Best Time to Buy and Sell Stock | [ Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/8478723/best-time-to-buy-and-sell-stock-single-p-9qrn/) |
 | Remove Duplicates from Sorted Array | [ Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/8479833/two-pointers-in-place-array-modification-t6xt/) |
 | Rotate Array | [ Solution](https://leetcode.com/problems/rotate-array/solutions/8479836/array-two-pointers-reversal-by-chhavisha-qezv/) |
+| Move Zeros | [ Solution](https://leetcode.com/problems/move-zeroes/solutions/8481311/move-zeros-by-chhavisharmaaa-af74/) |
 
 
 
