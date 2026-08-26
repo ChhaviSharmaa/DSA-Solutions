@@ -54,6 +54,8 @@ I am solving problems primarily from the Striver A2Z DSA Sheet and documenting m
 | Problem | Solution |
 |---|---|
 | Longest Subarray Of 1's After Deleting one element | [ Solution](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/solutions/8479907/longest-subarray-of-1s-after-deleting-on-pvuo/) |
+| Longest Substring Without Repeating Characters | [ Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/8484603/sliding-windowhashmap-by-chhavisharmaaa-3fgj/) |
+
 
 ---
 
