@@ -33,6 +33,7 @@ I am solving problems primarily from the Striver A2Z DSA Sheet and documenting m
 | Problem | Solution |
 |---|---|
 | Remove All Adjacent Duplicates in String | [ Solution](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/solutions/8491803/remove-all-adjacent-duplicates-in-string-co9w/) 
+| Backspace String Compare | [ Solution](https://leetcode.com/problems/backspace-string-compare/solutions/8491861/backspace-string-compare-leetcode-844-by-fo2u/) 
 ---
 
 ## Linked List
