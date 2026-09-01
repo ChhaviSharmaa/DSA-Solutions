@@ -34,6 +34,7 @@ I am solving problems primarily from the Striver A2Z DSA Sheet and documenting m
 |---|---|
 | Remove All Adjacent Duplicates in String | [ Solution](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/solutions/8491803/remove-all-adjacent-duplicates-in-string-co9w/) 
 | Backspace String Compare | [ Solution](https://leetcode.com/problems/backspace-string-compare/solutions/8491861/backspace-string-compare-leetcode-844-by-fo2u/) 
+| valid Palindrome II | [ Solution](https://leetcode.com/problems/valid-palindrome-ii/solutions/8494733/valid-palindrome-ii-leetcode-680-by-chha-0n7m/) 
 ---
 
 ## Linked List
