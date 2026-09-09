@@ -16,6 +16,7 @@ I am solving problems primarily from the Striver A2Z DSA Sheet and documenting m
 | Rotate Array | [ Solution](https://leetcode.com/problems/rotate-array/solutions/8479836/array-two-pointers-reversal-by-chhavisha-qezv/) |
 | Move Zeros | [ Solution](https://leetcode.com/problems/move-zeroes/solutions/8481311/move-zeros-by-chhavisharmaaa-af74/) |
 | Missing Number | [ Solution](https://leetcode.com/problems/missing-number/solutions/8481327/missing-number-by-chhavisharmaaa-ewkf/) |
+| Container With Most Water  | [ Solution](https://leetcode.com/problems/container-with-most-water/solutions/8512501/two-pointers-by-chhavisharmaaa-fjhi/) |
 
 
 
